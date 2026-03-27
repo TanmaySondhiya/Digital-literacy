@@ -1,0 +1,21 @@
+Stay Safe online: Checklist
+
+1)Enable Two-Factor Authentication(2FA): Don't just rely on passwords. Use 2Fa on your social accounts. It's the single best way to prevent someone from hacking your account even if they somehow get ahold of your password.
+
+2)Avoid Public Wi-Fi for Sensitive Tasks: Never use public/office/school Wi-Fi for entering bank details. Always use mobile data for it.
+
+3)Verify "Job-offer" Messages: Job offer messages for tasks like liking a video or sharing something on social media is usually a scam.
+
+4)Be careful with Permissions:  Whenever you download an app make sure that the app only has the permissions that are pivotal for it and not any extra which would have no effect on the app's functioning.
+
+5)Safe Webcam: Always slide the webcam shut when not in use.
+
+6)Limit Social Media Sharing: Limit oversharing on social media as usually hackers get your information form these sites.
+
+7)Pin for payment: The pin in only asked for payments in the UPI system. If somebody asks you to enter your pin for you to receive some amount it is definitely a scam.
+
+8)Double Check the Merchant Name: Always double check the merchant name to whom you are paying the amount to avoid sending the amount to someone else by mistake.
+
+#If you know someone who is a victim of an online scam or harassment, use the official Indian government channels to report it and for seeking help.
+	website: cybercrime.gov.in
+	helpline: 1930
