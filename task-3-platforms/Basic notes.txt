@@ -1,0 +1,5 @@
+This is the basic notes about what I have done for the part 3 pf my digital literacy project.
+> Earned my first star in solving algorithmic challenges. It involved reading the problem statement and writing down the code that passed all the test cases.
+> I also earned a star in python. It involved solving problem with string, lists, tuple, dictionaries and arrays.
+> I feel I am good at breaking the problem statement into simpler tasks and mapping out the rough idea of the final code in my head.
+> I struggle at debugging the code when the initial run of the code fails due to some error. So I have to keep practising to improve my debugging skills.
