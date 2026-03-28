@@ -15,9 +15,11 @@ Module Summaries:
 
   Module-1: Created a visual infographic on Digital Literacy basics using Prezi.
   
-  Module-2: Created a profile and established presence on platforms like LinkdIn,Github,ResearchGate                         and Kaggle.
+  Module-2: Created a profile and established presence on platforms like LinkdIn,Github,ResearchGate             
+            and Kaggle.
   
-  Module-3: Commpleted a coding challenge and obtained badges on HackerRank as well as designed a                          Quiz on Digital Literacy Awareness.
+  Module-3: Commpleted a coding challenge and obtained badges on HackerRank as well as designed a          
+            Quiz on Digital Literacy Awareness.
   
   Module-4: Drafted professional emails as well as created a socila media do's and dont's checklist.
   
